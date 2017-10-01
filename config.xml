@@ -5,14 +5,14 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "20200"
         version   = "3.3.2">
-    <name>Moodle Mobile</name>
+    <name>Bright Cloud Learning Solutions Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        Bright Cloud Learning Solutions Mobile app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://brightcloudlearning.com" email="info@brightcloudlearning.com">
+        brightcloudlearning.com
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
